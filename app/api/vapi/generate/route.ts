@@ -51,6 +51,6 @@ export async function POST(request:Request) {
     }
 }
 
-function generateText(): { text: any; } | PromiseLike<{ text: any; }> {
+function generateText(p0: unknown): { text: any; } | PromiseLike<{ text: any; }> {
     throw new Error("Function not implemented.");
 }
