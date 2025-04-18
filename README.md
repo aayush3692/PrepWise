@@ -17,7 +17,7 @@ This platform creates customized interview questions based on your role, experie
 3. Your mock interview is saved and ready to practice!
 
 ## Tech Stack
-- **Next.js** (API routes)
-- **Google Gemini** (AI Model)
-- **Firebase Firestore** (Database)
-- **Tailwind CSS** (Frontend styling, optional)
+- **Next.js**
+- **Google Gemini** 
+- **Firebase Firestore**
+- **Tailwind CSS**
